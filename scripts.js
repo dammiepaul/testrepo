@@ -1,0 +1,1 @@
+var newpara = document.getElementById("newParagraph");
